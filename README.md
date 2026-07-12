@@ -33,11 +33,6 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=Kunal0774&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/Kunal0774?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/Kunal0774?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
 
